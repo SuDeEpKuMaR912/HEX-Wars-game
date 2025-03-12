@@ -1,4 +1,4 @@
-This board game is a realtime !v1 game of minds in which your end objective is to have more hexagons of your colour than your opponent.
+This board game is a realtime 1v1 game of minds in which your end objective is to have more hexagons of your colour than your opponent.
 HOW TO PLAY:-
 You have hexagons with numbers on all six sides on left and right side of screen with panels marked as player 1 and player 2.
 You can select a hexagon from panel and place in any one the hexagon in play region.
